@@ -1,0 +1,76 @@
+header {
+    margin: auto;
+    width: 40%;
+    background: whitesmoke; 
+}
+
+.app-content {
+    margin: auto;
+    width: 35%;
+    background: whitesmoke; 
+}
+
+.formy-form {
+    border: .5px solid black;
+}
+
+h5 {
+    text-align: center;
+    padding: 10px;
+    font-size: 11px;
+}
+
+.formy-form form {
+    border-top: .5px solid black;
+    padding: 25px;
+}
+
+.formy-form p input {
+    margin: auto;
+    width: 100%;
+}
+
+.submit-button {
+    margin: auto;
+    width: 100%;
+}
+
+.login-form footer {
+    margin: auto;
+    width: 15%;
+    padding-top: 15px;
+}
+
+.signup-form footer {
+    margin: auto;
+    width: 15%;
+    padding-top: 15px;
+}
+
+.top-bar a {
+    padding-left: 25px
+}
+
+.message-form input {
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.message-form textarea {
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.plus-button {
+    display: inline;
+}
+
+h6 {
+    display: inline;
+}
+
+.col {
+    margin-left: 20px;
+    display: inline-block;
+    width: 40%;
+}
